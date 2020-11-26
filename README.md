@@ -1,2 +1,5 @@
-# payroll-public-api-docs
-Public API Documentation for the Visma.net Payroll API
+# Visma.net Payroll API
+
+## Resources
+
+* [Open API documentation](https://docs.api.payroll.core.hrm.visma.net/)
