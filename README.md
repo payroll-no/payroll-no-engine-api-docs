@@ -2,7 +2,7 @@
 
 ## Resources
 
-- [Visma for Developer](https://developer.visma.com/api/visma.net-payroll-api/) (General information and sign up for access)
+- [Visma for Developers](https://developer.visma.com/api/visma.net-payroll-api/) (General information and sign up for access)
 - [Open API documentation](https://docs.api.payroll.core.hrm.visma.net/)
 - [Changelog](changelog.md)
 - [Frequently asked questions](FAQ.md)
