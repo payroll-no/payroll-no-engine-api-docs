@@ -1,5 +1,7 @@
 # Visma.net Payroll API
 
+This repository is the for documentation and support of the [Visma.net Payroll API](https://developer.visma.com/api/visma.net-payroll-api/). The API allows you to create integrations between Visma.net Payroll and external systems.
+
 ## Resources
 
 - [Visma for Developers](https://developer.visma.com/api/visma.net-payroll-api/) (General information and sign up for access)
