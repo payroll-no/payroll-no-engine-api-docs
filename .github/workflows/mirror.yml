@@ -1,0 +1,17 @@
+name:
+  Mirror
+ 
+on: [push, delete, workflow_dispatch]
+ 
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+ 
+    steps:
+      - uses: actions/checkout@v1
+      - uses: pixta-dev/repository-mirroring-action@02f1627ade9e6b3b69e6a6d4fe8bc997474f48d1
+        with:
+          ssh_private_key:
+            ${{ secrets.MIRROR_SSH_KEY }}
+          target_repo_url:
+            git@github.com:visma-net/payroll-no-engine-api-docs.git
