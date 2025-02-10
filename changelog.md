@@ -1,6 +1,6 @@
 # API changelog
 ## 25.10.02 (2025-02-10)
-- Added ClaimId as a optional field to the createTransactionDto. This enables for grouping of expense transaction originating in a 3rd party expesne system.
+- Added ClaimId as a optional field to the createTransactionDto. This enables for grouping of expense transaction originating in a 3rd party expense system.
 - Added Description as a optional field to the createTransactionDto.
 
 ## 24.10.2 (2024-09-10)
