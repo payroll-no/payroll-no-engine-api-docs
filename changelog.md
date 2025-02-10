@@ -2,6 +2,7 @@
 ## 25.10.02 (2025-02-10)
 - Added ClaimId as a optional field to the createTransactionDto. This enables for grouping of expense transaction originating in a 3rd party expense system.
 - Added Description as a optional field to the createTransactionDto.
+- Added the description property to transaction GET endpoints
 
 ## 24.10.2 (2024-09-10)
 - Added transaction BundleId
